@@ -1,0 +1,10 @@
+Feature,Importance
+order_hour,0.24358263833925597
+Days for shipment (scheduled),0.1657597304062436
+order_month,0.13058807601626155
+Order Region_freq,0.1289312855017084
+Shipping Mode_freq,0.1248860327417046
+Category Name_freq,0.08809291308063895
+Type_freq,0.04196413438551042
+Customer Segment_freq,0.04178654726070196
+Department Name_freq,0.03440864226797455
